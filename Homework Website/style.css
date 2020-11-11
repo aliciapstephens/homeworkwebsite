@@ -1,0 +1,34 @@
+
+
+ 
+
+
+
+
+body {
+
+margin: 0;
+
+
+font-family: verdana;
+font-size: 30px;
+color: red;
+background-color: gray
+
+}
+li :hover {
+	background-color: red;
+}
+
+li {
+	display: inline;
+	font-size: 12px;
+	
+}
+.rectangle {
+background-color: black;
+
+}
+.shopping-cart-icon{
+	background-color: white;
+}
